@@ -1,9 +1,11 @@
 ## Kurs rejasi:
 
+### Three JS ga kirish
+
 - [ ] Kirish (prezentatsiya)
 - [ ] Three JS proyektni starter pack orqali sozlash
 - [ ] Dasturning fayl strukturasi va uning imkoniyatlari bilan tanishuv
 
-## 3D Mars amaliyoti
+### 3D Mars amaliyoti
 
 - [ ] Loyiha bilan tanishuv

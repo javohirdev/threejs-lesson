@@ -2,7 +2,7 @@
 
 ### Three JS ga kirish
 
-- [ ] Kirish (prezentatsiya)
+- [x] Kirish (prezentatsiya)
 - [ ] Three JS proyektni starter pack orqali sozlash
 - [ ] Dasturning fayl strukturasi va uning imkoniyatlari bilan tanishuv
 

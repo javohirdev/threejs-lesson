@@ -3,7 +3,7 @@
 ### Three JS ga kirish
 
 - [x] Kirish (prezentatsiya)
-- [ ] Three JS proyektni starter pack orqali sozlash
+- [x] Three JS proyektni starter pack orqali sozlash
 - [ ] Dasturning fayl strukturasi va uning imkoniyatlari bilan tanishuv
 
 ### 3D Mars amaliyoti

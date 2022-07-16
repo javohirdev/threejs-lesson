@@ -17,4 +17,5 @@
 - [ ] Camera uzoqligi va uni pozitsiyalarni to'g'irlash
 - [ ] Obyektlarni qirrali holatga keltirish
 - [ ] Dasturdagi obyketlar animatsiyasi, ularni harakatlanishi
+- [ ] Info card va asosiy textlar
 - [ ] Deploy

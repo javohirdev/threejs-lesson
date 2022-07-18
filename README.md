@@ -1,6 +1,9 @@
 ## Video kurs:
 https://www.youtube.com/watch?v=NL2Cv8N1Skg
 
+## Sozlash:
+Three JS uchun Node dasturini yukalang [Node.js](https://nodejs.org/en/download/).
+
 ## Starter packni ishlatish:
 https://github.com/javohirdev/threejs-starteruz
 

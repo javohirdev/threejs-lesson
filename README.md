@@ -1,21 +1,13 @@
-## Kurs rejasi:
+# Sozlash
+Three JS uchun Node dasturini yukalang [Node.js](https://nodejs.org/en/download/).
 
-### Three JS ga kirish
+``` bash
+# Kerakli kutubxonalarni o'rnatish (faqat bir marta)
+npm install
 
-- [x] Kirish (prezentatsiya)
-- [x] Three JS proyektni starter pack orqali sozlash
-- [x] Dasturning fayl strukturasi va uning imkoniyatlari bilan tanishuv
+# Dasturni ishga tushurish
+npm run dev
 
-### 3D Mars amaliyoti
-
-- [x] Loyiha bilan tanishuv
-- [x] Kerakli texturalarni import qilish
-- [x] Yer obyektini hosil qilish va unga textura qo'shish
-- [x] Orqa fon Particlelar
-- [x] Yorug'likni to'g'irlash
-- [x] Oyna balandligini o'zgartirish
-- [x] Camera uzoqligi va uni pozitsiyalarni to'g'irlash
-- [x] Obyektlarni qirrali holatga keltirish
-- [x] Dasturdagi obyketlar animatsiyasi, ularni harakatlanishi
-- [x] Info card va asosiy textlar
-- [x] Deploy
+# Dasturni build qilish (dist papkasi xosil bo'ladi)
+npm run build
+```

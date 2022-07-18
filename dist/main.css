@@ -1,0 +1,75 @@
+@import url(https://fonts.googleapis.com/css2?family=Tomorrow:wght@500&display=swap);
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    height: 100vh;
+    font-family: 'Poppins';
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+/** import font **/
+
+.texts{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    margin: 10% auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
+.texts h2{
+    color: #fff;
+    font-family: 'Tomorrow', 'Arial', sans-serif;
+    font-style: italic;
+    font-size: 4rem;
+    letter-spacing: 5px;
+}
+.texts p{
+    font-size: 2rem;
+    color: rgb(234, 234, 234);
+}
+
+.article{
+    background-image: url("https://www.spacex.com/static/images/backgrounds/mars_humans.webp");
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    height: 100%;
+    z-index: 1;
+}
+.quote{
+    position: absolute;
+    top: 20%;
+    left: 15%;
+    right: 15%;
+    color: #fff;
+    text-align: center;
+}
+.quote p:first-child{
+    font-size: 20px;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
+
+/*# sourceMappingURL=main.css.map*/

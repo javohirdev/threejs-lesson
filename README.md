@@ -19,12 +19,12 @@ https://github.com/javohirdev/threejs-starteruz
 
 - [x] Loyiha bilan tanishuv
 - [x] Kerakli texturalarni import qilish
-- [x] Yer obyektini hosil qilish va unga textura qo'shish
+- [x] Mars obyektini hosil qilish va unga textura qo'shish
 - [x] Orqa fon Particlelar
 - [x] Yorug'likni to'g'irlash
 - [x] Oyna balandligini o'zgartirish
 - [x] Camera uzoqligi va uni pozitsiyalarni to'g'irlash
-- [x] Obyektlarni qirrali holatga keltirish
-- [x] Dasturdagi obyketlar animatsiyasi, ularni harakatlanishi
+- [x] Obyektlarni qirrali holati
+- [x] Dasturdagi obyektlar animatsiyasi, ularni harakatlanishi
 - [x] Info card va asosiy textlar
 - [x] Deploy

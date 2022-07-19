@@ -1,6 +1,9 @@
 ## Video kurs:
 https://www.youtube.com/watch?v=NL2Cv8N1Skg
 
+## Kursdagi presentatsiya:
+https://bit.ly/3aRRf9M
+
 ## Sozlash:
 Three JS uchun Node dasturini yukalang [Node.js](https://nodejs.org/en/download/).
 

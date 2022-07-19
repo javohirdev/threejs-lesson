@@ -4,6 +4,9 @@ https://www.youtube.com/watch?v=NL2Cv8N1Skg
 ## Kursdagi presentatsiya:
 https://bit.ly/3aRRf9M
 
+## Loyiha demosi:
+https://harmonious-puppy-4ea920.netlify.app/
+
 ## Sozlash:
 Three JS uchun Node dasturini yukalang [Node.js](https://nodejs.org/en/download/).
 
